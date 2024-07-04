@@ -142,7 +142,7 @@ footer {
     color: #fff;
 }
 .pic1 img{
-    /* margin-left: 50px; */
+    
     position: relative;
     size-adjust: -10px;
     
@@ -152,66 +152,3 @@ footer {
 }
 
 
-
-/* .pic2 img{
-    border-radius: 12px;
-    margin-left: 80px;
-    size-adjust: -10px;
-    margin-left: 750px;
-    margin-top: -350px;
-
-}
-
-.pic3 img{
-    border-radius: 12px;
-    margin-left: 20px;
-    size-adjust: -10px;
-    margin-left: 150px;
-    margin-top: -470px;
-
-}
-.pic4 img{
-    
-    border-radius: 12px;
-    margin-left: 20px;
-    size-adjust: -10px;
-    margin-left: 880px;
-    margin-top: -570px;
-}
-.pic5 img{
-    margin-top: -200px;
-    margin-left: 50px;
-
-}
-.pic6 img{
-    border-radius: 12px;
-    margin-left: 150px;
-    size-adjust: -10px;
-    margin-left: 350px;
-    margin-top: 30px;
-
-}
-.pic7 img{
-    border-radius: 12px;
-    margin-left: -20px;
-    size-adjust: -10px;
-    margin-left: 600px;
-    margin-top: -660px;
-
-}
-.pic8 img{
-    border-radius: 12px;
-    margin-left: 20px;
-    size-adjust: -10px;
-    margin-left: 1000px;
-    margin-top: -760px;
-
-}
-.pic9 img{
-    border-radius: 12px;
-    margin-left: 20px;
-    size-adjust: -10px;
-    margin-left: 1000px;
-    margin-top: -500px;
-    
-} */
